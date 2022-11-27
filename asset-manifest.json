@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/color_changer/static/css/main.e6c13ad2.css",
+    "main.js": "/color_changer/static/js/main.92945f6d.js",
+    "static/js/787.c54bbf3d.chunk.js": "/color_changer/static/js/787.c54bbf3d.chunk.js",
+    "index.html": "/color_changer/index.html",
+    "main.e6c13ad2.css.map": "/color_changer/static/css/main.e6c13ad2.css.map",
+    "main.92945f6d.js.map": "/color_changer/static/js/main.92945f6d.js.map",
+    "787.c54bbf3d.chunk.js.map": "/color_changer/static/js/787.c54bbf3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.92945f6d.js"
+  ]
+}
